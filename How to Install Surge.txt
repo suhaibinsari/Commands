@@ -1,0 +1,8 @@
+Install Nodejs current version
+
+open cmd
+
+~ to check nodejs version type "node -v"
+~ to install nodejs "npm install --global surge"
+
+~surge
