@@ -1,11 +1,9 @@
-For bootstrap npm
+1. Install NodeJs and NPM
 
-1. npm init
+2. Install Visual Studio
 
-2. npm install/uninstall e.g (bootstrap)
+3. Install React from terminal
 
-For React Install
-
-1. npm install -g (g means for global) create-react-app
-
-2. create-react-app (name)(learn-react) 
+	a: npm install -g create-react-app
+	b: create-react-app -version
+	c: create-react-app <projectname>
