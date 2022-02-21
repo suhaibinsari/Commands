@@ -1,0 +1,6 @@
+1. npm start
+2. Use {} this brackets to put data in it e.g {../images/myimage.jpg}
+3. When ever you are going to write a code in app.js use container e.g (div) otherwise in will give error
+4. To export a file use export default (filename)
+5. To import => Use import (filename) from "../foldername/etc"
+6. Use "className" to call a class.
