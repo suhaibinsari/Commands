@@ -7,3 +7,7 @@
 	a: npm install -g create-react-app
 	b: create-react-app -version
 	c: create-react-app <projectname>
+
+4. Install react icons
+
+	a. npm install react-icons
