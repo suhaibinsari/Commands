@@ -1,0 +1,2 @@
+npm -g list
+npm install -g yarn 

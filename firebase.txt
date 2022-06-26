@@ -1,2 +1,6 @@
 
-1. npmrun build
+1. npm run build
+	
+	copy the files to the project (public) folder to firbase (public) folder.
+
+2. firebase deploy --only hosting
